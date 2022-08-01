@@ -1,0 +1,13 @@
+.header__content {
+  display: flex;
+  justify-content: space-between;
+}
+.header__logo {
+  font-size: 30px;
+}
+.header__item {
+  font-size: 16px;
+}
+.header__list {
+  display: flex;
+}/*# sourceMappingURL=header.css.map */
